@@ -1,0 +1,11 @@
+{
+  "name": "Academic Data Analysis Platform",
+  "description": "Full-stack platform for academic data analysis across BSc, MSc, and PhD levels, featuring guided workflows, live statistical computation, custom charts, reporting, and an integrated AI methodology assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
